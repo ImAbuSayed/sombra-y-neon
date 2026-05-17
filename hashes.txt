@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sombra y Neon
+
+This log tracks the cryptographic history and versioning for the song **Sombra y Neon** (sombra-y-neon).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-17T15:25:34.106610 | `v1` | `1b2aa196b38f172fef5f268ef526ec7ce3bc51e8320c713cb0d16a5967369903` | `2042d846e3f1df157599ad8985b6f824d9b0c5b6560f686636370f6c26c00095` | `2026-05-17_sombra-y-neon-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
