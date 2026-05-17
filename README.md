@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sombra-y-neon/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Sombra y Neon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sombra-y-neon/) |
+| **Get License** | [Get a Licensing Quote for Sombra y Neon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sombra-y-neon/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows and neon, I'm watching the way that you move
+> We got the chemistry, baby, there's nothing to prove
+> I got the drop-top waiting out under the moon
+> Give me the signal, I'll be taking you away soon
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
